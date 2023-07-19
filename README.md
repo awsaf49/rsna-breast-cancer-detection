@@ -23,3 +23,6 @@
 
 ## Sample Result
 <img src="https://github.com/awsaf49/rsna-breast-cancer-detection/assets/36858976/f472bdfb-fa6f-4079-9867-04024909e366" width="600">
+
+
+> **Note**: Codes/Notebooks are also available in the [`notebooks`](/notebooks) folder.
