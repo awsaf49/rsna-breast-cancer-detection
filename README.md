@@ -22,7 +22,7 @@
 * NoROI: [RSNA-BCD: 512 PNG v2 PNG Dataset](https://www.kaggle.com/datasets/awsaf49/rsnabcd-512-png-v2-dataset)
 
 ## Sample Result
-<img src="https://github.com/awsaf49/rsna-breast-cancer-detection/assets/36858976/f472bdfb-fa6f-4079-9867-04024909e366" width="600">
+<img src="https://github.com/awsaf49/rsna-breast-cancer-detection/assets/36858976/f472bdfb-fa6f-4079-9867-04024909e366" width="800">
 
 
 > **Note**: Codes/Notebooks are also available in the [`notebooks`](/notebooks) folder.
